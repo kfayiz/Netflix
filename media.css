@@ -1,0 +1,14 @@
+@media screen and (max-width:500px) {
+    *{
+        overflow-x: hidden;
+    }
+
+    .mainsub{
+        background-color: aqua;
+    }
+    .subdiv{
+        background-color: aquamarine;
+    }
+
+    
+}
